@@ -20,7 +20,8 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 <!--section 2: List 3-4 key projects-->
 
  ## MY PORTOFIO
-C:\Users\EMEKA COOKEY\Desktop\DAMP PROJECTS\Car Sales DAMP.xlsx
+ 
+![beyondCar Analysis Final copy](https://github.com/user-attachments/assets/41499f68-7677-4ca6-a9bc-469ffaf909c1)
 
 *A glimpse of some of the project I've been working on.*
 
