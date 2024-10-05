@@ -29,7 +29,8 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
  ![Due Promotion Dashboard2](https://github.com/user-attachments/assets/10d4252f-76ac-432a-9e71-2539db5f36af)
 
- ![image](assets/car2.jpeg)
+ ![sales data](https://github.com/user-attachments/assets/ef8e840a-1766-4918-aba7-771f7718b1e7)
+e](assets/car2.jpeg)
 
  Explore the preferences of our customers regarding car brands and models. Identify the top-selling models, analyze the popularity of different car categories, and uncover any trends or patterns in product preferences. .
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
