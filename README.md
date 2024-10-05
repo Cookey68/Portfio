@@ -13,15 +13,15 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
  I provide in-depth analysis and tialored solutions to help you make data-driven decisions, optimize processes and drive business growth
 
- ** ✅ Staff training & Development **
+ **- ✅ Staff training & Development. **
 
- I offered comprehensive training programs in Data analysis, Visualization, and data-driven decision making, from the beginners to advanced .
+ I offered comprehensive training programs in Data analysis, Visualization, and data-driven decision making, from the beginners to advanced.
 
-<! --section 2: List 3 - 4 key project-->
+<!--section 2: List 3-4 key projects-->
 
  ## MY PORTOFIO
 
- * A glimpse of some of the project I've been working on.*
+*A glimpse of some of the project I've been working on.*
 
 ** Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
  
@@ -29,3 +29,6 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
  The sinking of the Titanic is one of the most infamous shipwreks in history.
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
+
+[Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
+
