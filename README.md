@@ -9,7 +9,7 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
  * As the chief Analyst of Vec Next Ltd, I provide Consulting and Training Service for Business and mentor aspiring analysts.* 
 
- ** - ✅ Data Analytics Consulting**
+ **- ✅ Data Analytics Consulting.**
 
  I provide in-depth analysis and tialored solutions to help you make data-driven decisions, optimize processes and drive business growth
 
