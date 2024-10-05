@@ -7,19 +7,20 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
   ## WHAT I DO
 
- * As the chief Analyst of Vec Next Ltd, I provide Consulting and Training Service for Business and mentor aspiring analysts.* 
+ * As Chief Analyst at Vec Next Ltd, I lead data-driven decision-making, oversee data analysis and AI model development, and provide insights to drive business strategy. I ensure robust data infrastructure, collaborate with teams to optimize performance, and maintain data governance and compliance across the company.
 
  **- ✅ Data Analytics Consulting.**
 
- I provide in-depth analysis and tialored solutions to help you make data-driven decisions, optimize processes and drive business growth
-
- **- ✅ Staff training & Development. **
+ I develops data-driven strategies, organizes and secures data, ensures data accuracy, analyzes data for insights, forecasts trends with predictive analytics, creates visual reports for decision-making, implements AI solutions, educates teams on data tools, ensures compliance with data regulations, and measures the business impact to optimize outcome
+ 
+ **- ✅ Staff training & Development.**
 
  I offered comprehensive training programs in Data analysis, Visualization, and data-driven decision making, from the beginners to advanced.
 
 <!--section 2: List 3-4 key projects-->
 
  ## MY PORTOFIO
+C:\Users\EMEKA COOKEY\Desktop\DAMP PROJECTS\Car Sales DAMP.xlsx
 
 *A glimpse of some of the project I've been working on.*
 
@@ -27,7 +28,7 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
  
  ![image](assets/car2.jpeg)
 
- The sinking of the Titanic is one of the most infamous shipwreks in history.
+ Explore the preferences of our customers regarding car brands and models. Identify the top-selling models, analyze the popularity of different car categories, and uncover any trends or patterns in product preferences. .
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
 
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
