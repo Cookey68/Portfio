@@ -91,8 +91,6 @@ In this course, you will learn how to analyze HR and employee data, including de
       <td>🌐</td>
       <td><a href="https://www.linkedin.com/in/cookey-emeka-807889168">my activities on LinkedIn</a></td>
     </tr>
-    <tr>
-      <td>📺</td>
     </tr>
   </tbody>
 </table>
