@@ -46,28 +46,13 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-
-![image](assets/car.jpg)
-
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
-
-
-## MY CLASSES
+## MY LIST OF SKILLS
 ![image](assets/class.jpg)
-*Call my admin for details about the classes: 08034730987.*
-
-- Settings | One-on-One, Group, Communities.								       		
-- Platforms	| Physical or Virtual, Weekday or Weekend. 			        		
-- Courses | Advanced Excel, Statistics, Power BI, SQL, Tableau, Python.
-
-
-<!--Section 3: This section is optional. You can replace this section with a list of your core skills-->
-## MY COURSES
-*You can get these courses today.*
-
+- Advanced Excel 								       		
+- Power BI. 			        		
+- SQL.
+- Python.
+  
 **Performance Analysis**
 ![image](assets/418159415_10224996118350400_1790389732999386325_n.jpg)
 Advanced Data Analytics: Mastering the Craft with Portfolio Project using Excel. Master data analytics by solving real-world sales problems using MS Excel 2021, learn core dashboard design and presentation skills and create your portfolio project. This course is designed for beginners and professional data analyst.
@@ -88,11 +73,11 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:anietieetuk@gmail.com">anietieetuk@gmail.com</a></td>
+      <td><a href="mailto:emekacookey@gmail.com">emekacookey.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
-      <td>(234) 816-763-7212</td>
+      <td>(234) 8069564464</td>
     </tr>
     <tr>
       <td>📍</td>
@@ -100,15 +85,14 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><a href="https://Cookey68.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://www.linkedin.com/in/cookey-emeka-807889168">my activities on LinkedIn</a></td>
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
 </table>
