@@ -19,7 +19,7 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
 <!--section 2: List 3-4 key projects-->
 
- ## MY PORTOFIO
+## MY PORTFOLIO 
  
  **Sales Performance Analysis for Beyound Cars LTD.**
 
