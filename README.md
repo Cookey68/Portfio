@@ -21,11 +21,15 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
  ## MY PORTOFIO
  
+ **Sales Performance Analysis for Beyound Cars LTD.**
+
 ![beyondCar Analysis Final copy](https://github.com/user-attachments/assets/41499f68-7677-4ca6-a9bc-469ffaf909c1)
 
-*A glimpse of some of the project I've been working on.*
+*The Company's sales volume and growth rate in 2020 were higher compared to industry averages. 
+Manage resources better by matching demand with product visibility.
+With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion.*
 
-** Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
+**Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
 
  ![Due Promotion Dashboard2](https://github.com/user-attachments/assets/10d4252f-76ac-432a-9e71-2539db5f36af)
 
