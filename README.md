@@ -29,6 +29,8 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 Manage resources better by matching demand with product visibility.
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion.*
 
+[Read More](asset/presentation slides.pdf)
+
 **Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
 
  ![Due Promotion Dashboard2](https://github.com/user-attachments/assets/10d4252f-76ac-432a-9e71-2539db5f36af)
@@ -37,7 +39,6 @@ With the increasing demand, we have identified opportunities and proposed strate
 e](assets/car2.jpeg)
 
  Explore the preferences of our customers regarding car brands and models. Identify the top-selling models, analyze the popularity of different car categories, and uncover any trends or patterns in product preferences. .
-[Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
 
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
 
