@@ -29,7 +29,7 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 Manage resources better by matching demand with product visibility.
 With the increasing demand, we have identified opportunities and proposed strategies for growth and expansion.*
 
-[Read More] (asset/presentation slides.pdf)
+[Read More](asset/presentation slides.pdf)
 
 **Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
 
