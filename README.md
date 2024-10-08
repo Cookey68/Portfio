@@ -7,7 +7,7 @@ As a data analyst, I am skilled in collecting, processing, and analyzing large s
 
 ## WHAT I DO
 
- * As Chief Analyst at Vec Next Ltd, I lead data-driven decision-making, oversee data analysis and AI model development, and provide insights to drive business strategy. I ensure robust data infrastructure, collaborate with teams to optimize performance, and maintain data governance and compliance across the company.
+*As Chief Analyst at Vec Next Ltd, I lead data-driven decision-making, oversee data analysis and AI model development, and provide insights to drive business strategy. I ensure robust data infrastructure, collaborate with teams to optimize performance, and maintain data governance and compliance across the company.*
 
  **- ✅ Data Analytics Consulting.**
 
