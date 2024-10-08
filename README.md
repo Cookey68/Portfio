@@ -35,6 +35,12 @@ With the increasing demand, we have identified opportunities and proposed strate
 
  ![Due Promotion Dashboard2](https://github.com/user-attachments/assets/10d4252f-76ac-432a-9e71-2539db5f36af)
 
+**Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
+
+[Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
+
+**Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
+
  ![sales data](https://github.com/user-attachments/assets/ef8e840a-1766-4918-aba7-771f7718b1e7)
 e](assets/car2.jpeg)
 
