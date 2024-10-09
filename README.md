@@ -84,7 +84,7 @@ In this course, you will learn how to analyze HR and employee data, including de
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:emekacookey@gmail.com">emekacookey.com</a></td>
+      <td><a href="mailto:emekacookey@gmail.com">emekacookey@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
