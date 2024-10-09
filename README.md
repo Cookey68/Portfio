@@ -47,7 +47,7 @@ The company's sales volume and growth in 2023 surpassed industry benchmarks.
 To enhance resource management, aligning product visibility with demand is essential.
 In response to the increasing demand, we have identified key opportunities and formulated strategies to drive further growth and expansion.. .
 
-[Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
+[Read More](asset/Property sales Performance Analysis Report.pdf)
 
 
 **Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
