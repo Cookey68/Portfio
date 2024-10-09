@@ -39,12 +39,13 @@ With the increasing demand, we have identified opportunities and proposed strate
 
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
 
-**Predictive Modeling and Hypothesis Testing using BeyondCar Dataset.**
+**Property Sales Performance Analysis.**
 
  ![sales data](https://github.com/user-attachments/assets/ef8e840a-1766-4918-aba7-771f7718b1e7)
-e](assets/car2.jpeg)
 
- Explore the preferences of our customers regarding car brands and models. Identify the top-selling models, analyze the popularity of different car categories, and uncover any trends or patterns in product preferences. .
+The company's sales volume and growth in 2023 surpassed industry benchmarks.
+To enhance resource management, aligning product visibility with demand is essential.
+In response to the increasing demand, we have identified key opportunities and formulated strategies to drive further growth and expansion.. .
 
 [Read More](http://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-aniete)
 
@@ -58,7 +59,6 @@ On April 15, 1912, during her maiden voyage, the widely considered “unsinkable
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 ## MY LIST OF SKILLS
-![image](assets/class.jpg)
 - Advanced Excel 								       		
 - Power BI. 			        		
 - SQL.
