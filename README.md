@@ -92,7 +92,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Abuja, Nigeria</td>
     </tr>
     <tr>
       <td>⬇️</td>
