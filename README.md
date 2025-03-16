@@ -35,7 +35,7 @@ With the increasing demand, we have identified opportunities and proposed strate
 
  ![Due Promotion Dashboard2](https://github.com/user-attachments/assets/10d4252f-76ac-432a-9e71-2539db5f36af)
 
-*This is an HR analysis where the company wants to promote staff who has reached upto 7 years in service with 
+*This is an HR analysis where the company wants to promote staff who has reached upto 7 years in service with the 
 organization. Due promotion analysis is the systematic evaluation of employees to determine their eligibility for
 promotion based on predefined criteria such as performance, experience, skills, and organizational needs. This 
 process ensures fairness, transparency, and merit-based career advancement.*
