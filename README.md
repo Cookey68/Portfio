@@ -99,7 +99,7 @@ In this course, you will learn how to analyze HR and employee data, including de
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="asset/CV Emeka Cookey.pdf">Download my CV</a></td>
+      <td><a href="[asset/CV Emeka Cookey.pdf](https://github.com/Cookey68/Portfio/blob/main/asset/Cookey%20Emeka3CV.pdf)">Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
